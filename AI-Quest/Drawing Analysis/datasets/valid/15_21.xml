@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<size>
+		<width>2100</width>
+		<height>1181</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>triangle</name>
+		<bndbox>
+			<xmin>961.1141245389455</xmin>
+			<ymin>223.0436645693209</ymin>
+			<xmax>1099.6257322629638</xmax>
+			<ymax>320.2447927967021</ymax>
+		</bndbox>
+	</object>
+</annotation>

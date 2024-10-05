@@ -1,0 +1,16 @@
+circle 634 493 689 543
+circle 775 248 835 302
+circle 1063 248 1112 302
+circle 1204 495 1254 552
+circle 1064 734 1115 791
+circle 781 740 831 786
+round_rectangle 823 663 868 730
+round_rectangle 821 311 868 370
+round_rectangle 1121 501 1186 539
+round_rectangle 934 401 967 458
+round_rectangle 840 453 898 501
+round_rectangle 841 541 898 588
+round_rectangle 934 575 967 635
+round_rectangle 998 540 1051 589
+round_rectangle 1001 447 1047 502
+circle 919 492 975 549

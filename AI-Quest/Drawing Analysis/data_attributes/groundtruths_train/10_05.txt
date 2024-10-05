@@ -1,0 +1,3 @@
+rectangle 743 237 812 302
+rectangle 743 530 810 598
+rectangle 1039 524 1101 597

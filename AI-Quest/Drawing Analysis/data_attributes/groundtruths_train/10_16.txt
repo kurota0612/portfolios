@@ -1,0 +1,6 @@
+rectangle 772 320 834 382
+rectangle 1038 322 1087 380
+rectangle 886 429 984 525
+rectangle 772 580 834 638
+rectangle 1036 580 1090 638
+round_rectangle 1162 386 1258 556

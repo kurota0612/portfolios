@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<size>
+		<width>2100</width>
+		<height>1181</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>circle</name>
+		<bndbox>
+			<xmin>731.133744936883</xmin>
+			<ymin>262.42575406032483</ymin>
+			<xmax>815.698611821149</xmax>
+			<ymax>361.08476542530184</ymax>
+		</bndbox>
+	</object>
+</annotation>

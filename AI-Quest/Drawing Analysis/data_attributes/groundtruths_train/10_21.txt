@@ -1,0 +1,4 @@
+triangle 623 147 753 280
+triangle 630 588 748 718
+triangle 1062 588 1194 715
+triangle 1062 149 1189 285

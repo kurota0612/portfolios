@@ -1,0 +1,3 @@
+rectangle 785 207 867 291
+rectangle 989 339 1073 426
+rectangle 1194 477 1274 559

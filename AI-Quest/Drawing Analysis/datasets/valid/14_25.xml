@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<size>
+		<width>2100</width>
+		<height>1181</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rectangle</name>
+		<bndbox>
+			<xmin>785.7485547996381</xmin>
+			<ymin>207.3250129520045</ymin>
+			<xmax>867.1786305601785</xmax>
+			<ymax>291.7802780111033</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rectangle</name>
+		<bndbox>
+			<xmin>989.0869863662335</xmin>
+			<ymin>339.55480370778315</ymin>
+			<xmax>1073.1111210923507</xmax>
+			<ymax>426.4645561468163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rectangle</name>
+		<bndbox>
+			<xmin>1194.478744740257</xmin>
+			<ymin>477.80500330020334</ymin>
+			<xmax>1274.2442386898217</xmax>
+			<ymax>559.7210103063088</ymax>
+		</bndbox>
+	</object>
+</annotation>

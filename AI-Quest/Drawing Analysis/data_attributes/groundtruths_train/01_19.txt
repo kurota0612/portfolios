@@ -1,0 +1,12 @@
+rectangle 850 216 878 251
+rectangle 1149 208 1194 253
+rectangle 1307 469 1338 517
+rectangle 1144 735 1184 781
+rectangle 847 735 881 777
+rectangle 692 477 735 512
+round_rectangle 755 473 841 511
+round_rectangle 879 273 931 333
+round_rectangle 1098 274 1149 341
+round_rectangle 1194 474 1272 511
+round_rectangle 1091 653 1158 726
+round_rectangle 882 653 941 719

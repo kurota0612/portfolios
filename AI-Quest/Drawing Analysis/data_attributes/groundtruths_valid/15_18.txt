@@ -1,0 +1,5 @@
+round_rectangle 937 332 1132 370
+triangle 1037 228 1101 303
+triangle 964 228 1028 302
+circle 953 710 978 740
+circle 1086 711 1109 740

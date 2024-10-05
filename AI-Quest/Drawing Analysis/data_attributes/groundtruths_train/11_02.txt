@@ -1,0 +1,1 @@
+round_rectangle 1002 314 1267 418

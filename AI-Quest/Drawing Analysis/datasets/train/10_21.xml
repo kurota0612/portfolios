@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<size>
+		<width>2100</width>
+		<height>1181</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>triangle</name>
+		<bndbox>
+			<xmin>623.6658932714616</xmin>
+			<ymin>147.33602667981637</ymin>
+			<xmax>753.5739991509887</xmax>
+			<ymax>280.0434346612136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>triangle</name>
+		<bndbox>
+			<xmin>630.8623960553931</xmin>
+			<ymin>588.3902028126606</ymin>
+			<xmax>748.7514255377718</xmax>
+			<ymax>718.7236816233434</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>triangle</name>
+		<bndbox>
+			<xmin>1062.3461402335915</xmin>
+			<ymin>588.3528451767667</ymin>
+			<xmax>1194.3293141966813</xmax>
+			<ymax>715.0880725954837</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>triangle</name>
+		<bndbox>
+			<xmin>1062.2714249618034</xmin>
+			<ymin>149.67259821463682</ymin>
+			<xmax>1189.1934405599904</xmax>
+			<ymax>285.47816938505605</ymax>
+		</bndbox>
+	</object>
+</annotation>

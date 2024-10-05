@@ -1,0 +1,6 @@
+rectangle 558 179 681 308
+rectangle 687 174 1493 304
+rectangle 1488 181 1622 304
+rectangle 554 560 676 701
+rectangle 685 565 1488 702
+rectangle 1492 568 1629 699

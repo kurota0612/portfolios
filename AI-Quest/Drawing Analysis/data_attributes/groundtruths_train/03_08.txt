@@ -1,0 +1,7 @@
+triangle 788 498 864 571
+round_rectangle 875 310 1102 463
+triangle 1149 286 1222 364
+round_rectangle 1183 401 1291 651
+triangle 1147 701 1227 782
+round_rectangle 892 595 1096 743
+rectangle 1007 476 1124 582

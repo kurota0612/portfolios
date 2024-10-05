@@ -1,0 +1,2 @@
+round_rectangle 1237 386 1267 461
+round_rectangle 1274 385 1302 457

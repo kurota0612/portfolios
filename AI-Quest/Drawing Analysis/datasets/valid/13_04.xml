@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<size>
+		<width>2100</width>
+		<height>1181</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>round_rectangle</name>
+		<bndbox>
+			<xmin>790.6644955248958</xmin>
+			<ymin>405.24260613281785</ymin>
+			<xmax>1054.7307278155533</xmax>
+			<ymax>600.6852215973888</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,6 @@
+circle 923 230 947 272
+circle 1297 563 1337 603
+rectangle 945 562 995 610
+rectangle 912 520 958 571
+rectangle 871 562 921 610
+rectangle 912 594 955 644

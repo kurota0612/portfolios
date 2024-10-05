@@ -1,0 +1,3 @@
+triangle 1036 237 1100 316
+triangle 963 234 1024 316
+rectangle 948 436 1112 782

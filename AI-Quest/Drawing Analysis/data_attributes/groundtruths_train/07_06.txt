@@ -1,0 +1,8 @@
+rectangle 887 285 986 362
+rectangle 1060 285 1173 361
+circle 997 361 1065 410
+rectangle 893 406 1011 473
+rectangle 1058 406 1178 473
+round_rectangle 877 520 1165 577
+rectangle 745 570 820 643
+rectangle 1230 569 1308 642

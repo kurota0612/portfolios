@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<size>
+		<width>2100</width>
+		<height>1181</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>circle</name>
+		<bndbox>
+			<xmin>863.2663494435486</xmin>
+			<ymin>302.94641944236895</ymin>
+			<xmax>935.4988399071925</xmax>
+			<ymax>373.41714184592394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>circle</name>
+		<bndbox>
+			<xmin>1044.7284596327027</xmin>
+			<ymin>297.6611152621023</ymin>
+			<xmax>1124.0080223367022</xmax>
+			<ymax>382.2259821463683</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>round_rectangle</name>
+		<bndbox>
+			<xmin>879.1222619843486</xmin>
+			<ymin>463.26731291045655</ymin>
+			<xmax>921.0815933481681</xmax>
+			<ymax>560.8570287428726</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>circle</name>
+		<bndbox>
+			<xmin>1046.4902276927917</xmin>
+			<ymin>486.17029769161195</ymin>
+			<xmax>1099.343269495458</xmax>
+			<ymax>540.7851075543671</ymax>
+		</bndbox>
+	</object>
+</annotation>

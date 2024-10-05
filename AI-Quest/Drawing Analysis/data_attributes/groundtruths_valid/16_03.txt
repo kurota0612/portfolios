@@ -1,0 +1,2 @@
+round_rectangle 861 218 972 572
+round_rectangle 949 539 1347 660

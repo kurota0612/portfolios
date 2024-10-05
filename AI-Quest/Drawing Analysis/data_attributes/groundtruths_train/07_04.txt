@@ -1,0 +1,7 @@
+rectangle 884 327 991 406
+rectangle 1053 322 1159 401
+rectangle 1055 440 1151 509
+rectangle 879 442 993 512
+rectangle 884 533 1168 590
+rectangle 750 591 833 669
+rectangle 1215 595 1296 672

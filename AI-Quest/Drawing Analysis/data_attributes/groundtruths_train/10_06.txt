@@ -1,0 +1,4 @@
+rectangle 761 253 832 320
+rectangle 1058 257 1122 319
+rectangle 761 542 831 616
+rectangle 1051 549 1121 609

@@ -1,0 +1,1 @@
+round_rectangle 790 405 1054 600

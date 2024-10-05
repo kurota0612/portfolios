@@ -1,0 +1,2 @@
+rectangle 732 220 794 287
+rectangle 1035 516 1097 586

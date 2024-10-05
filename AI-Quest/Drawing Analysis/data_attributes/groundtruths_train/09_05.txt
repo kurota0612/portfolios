@@ -1,0 +1,4 @@
+rectangle 930 324 997 405
+circle 1050 343 1087 382
+rectangle 1150 332 1213 394
+rectangle 943 417 1208 478

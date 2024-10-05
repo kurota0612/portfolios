@@ -1,0 +1,3 @@
+round_rectangle 863 408 914 528
+circle 824 613 872 676
+circle 1092 611 1141 662

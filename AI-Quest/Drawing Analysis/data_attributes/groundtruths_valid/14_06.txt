@@ -1,0 +1,4 @@
+rectangle 850 282 1054 345
+rectangle 865 365 1037 436
+rectangle 876 453 1023 512
+triangle 1225 314 1324 549

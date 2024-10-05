@@ -1,0 +1,3 @@
+rectangle 816 317 1041 388
+rectangle 899 408 968 585
+triangle 1251 355 1359 637
